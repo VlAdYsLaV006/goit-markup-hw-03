@@ -46,15 +46,14 @@ nav-link:focus {
 }
 
 .address-link {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
 }
 
 .address-link:hover,
 .address-link:focus {
-  color: 404BBF;
+  color: #404BBF;
 }
