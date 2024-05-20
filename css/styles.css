@@ -75,7 +75,7 @@ nav-link:focus {
   color: #404bbf;
 }
 
-.strategy-title {
+.title-item {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -84,58 +84,7 @@ nav-link:focus {
   color: #2e2f42;
 }
 
-.strategy-title-item {
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.punctuality-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.punctuality-title-item {
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.diligence-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.diligence-title-item {
-  font-size: 16px;
-  line-height: 24px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.technologies-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.technologies-title-item {
+.title-text {
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
