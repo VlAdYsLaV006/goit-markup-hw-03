@@ -98,6 +98,7 @@ nav-link:focus {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background: #f4f4fd;
 }
 
 .team-name {
@@ -153,6 +154,4 @@ nav-link:focus {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
