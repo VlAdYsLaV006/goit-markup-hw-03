@@ -60,6 +60,10 @@ nav-link:focus {
 }
 
 .btn {
+  cursor: pointer;
+}
+
+.btn {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
@@ -149,9 +153,9 @@ nav-link:focus {
 }
 
 .footer-text {
-font-size: 16px;
-line-height: 24px; 
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
