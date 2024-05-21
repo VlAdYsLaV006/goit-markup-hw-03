@@ -90,6 +90,10 @@ nav-link:focus {
   color: #434455;
 }
 
+.our-team-card {
+background-color: #f4f4fd;
+}
+
 .team-list {
   font-weight: 700;
   font-size: 36px;
@@ -98,7 +102,6 @@ nav-link:focus {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background: #f4f4fd;
 }
 
 .team-name {
