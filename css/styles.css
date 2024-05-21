@@ -90,6 +90,10 @@ nav-link:focus {
   color: #434455;
 }
 
+.team-card {
+  background: #f4f4fd;
+}
+
 .our-team {
   background-color: #f4f4fd;
 }
