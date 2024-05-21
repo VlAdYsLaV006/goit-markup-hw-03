@@ -91,7 +91,7 @@ nav-link:focus {
 }
 
 .our-team-card {
-background-color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .team-list {
@@ -102,6 +102,7 @@ background-color: #f4f4fd;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #fff;
 }
 
 .team-name {
