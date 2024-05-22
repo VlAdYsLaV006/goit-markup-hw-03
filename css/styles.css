@@ -64,7 +64,7 @@ ol {
 }
 
 .hero {
-background-color: #2e2f42;
+color: #2e2f42;
 }
 
 .hero-title {
@@ -88,8 +88,8 @@ background-color: #2e2f42;
   cursor: pointer;
 }
 
-.btn :hover,
-.btn :focus {
+.btn .link :hover,
+.btn .link:focus {
 background-color: #404BBF
 }
 
