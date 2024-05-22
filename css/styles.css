@@ -61,6 +61,8 @@ ol {
 
 .hero {
   background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
 }
 
 .hero-title {
