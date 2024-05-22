@@ -27,6 +27,10 @@ ol {
   color: #2e2f42;
 }
 
+.logo-part-footer {
+  color: #f4f4fd;
+}
+
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -80,6 +84,7 @@ ol {
 }
 
 .feature {
+  background-color: #fff;
 }
 
 .feature-title {
@@ -167,9 +172,9 @@ ol {
 }
 
 .footer-text {
-    font-size: 16px;
-  line-height: 24px; 
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
