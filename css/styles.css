@@ -64,7 +64,7 @@ ol {
 }
 
 .hero {
-  background-color: #2e2f42;
+color: #2e2f42;
 }
 
 .hero-title {
@@ -84,12 +84,13 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4D5AE5;
   cursor: pointer;
 }
 
 .btn :hover,
 .btn :focus {
-  background-color: #404BBF
+background-color: #404BBF;
 }
 
 .feature {
