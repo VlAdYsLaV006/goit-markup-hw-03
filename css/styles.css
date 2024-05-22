@@ -84,12 +84,12 @@ color: #2e2f42;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background-color: #4D5AE5;
+  background-color: #f4f4fd;
   cursor: pointer;
 }
 
-.btn .link :hover,
-.btn .link:focus {
+.btn :hover,
+.btn :focus {
 background-color: #404bbf;
 }
 
