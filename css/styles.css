@@ -137,6 +137,7 @@ ol {
   color: #434455;
 }
 .portfolio {
+  text-transform: capitalize;
   background-color: #fff;
 }
 
