@@ -78,9 +78,18 @@ ol {
 }
 
 .btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
   cursor: pointer;
+}
+
+.btn :hover,
+.btn :focus {
+  background-color: #404BBF
 }
 
 .feature {
@@ -120,7 +129,7 @@ ol {
 }
 
 .page-item-list {
-background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .team-card {
