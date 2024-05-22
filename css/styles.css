@@ -163,7 +163,7 @@ ol {
 }
 
 .footer-title {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .footer-text {
@@ -171,5 +171,9 @@ ol {
   line-height: 24px; 
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+.logo-part {
     color: #f4f4fd;
 }
