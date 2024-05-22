@@ -64,7 +64,7 @@ ol {
 }
 
 .hero {
-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .hero-title {
@@ -90,7 +90,7 @@ color: #2e2f42;
 
 .btn :hover,
 .btn :focus {
-background-color: #404BBF;
+background-color: #404BBF
 }
 
 .feature {
@@ -115,7 +115,7 @@ background-color: #404BBF;
 }
 
 .page-item {
-  background-color: #f4f4fd;
+background-color: #FFFFFF;
 }
 
 .page-team {
@@ -127,10 +127,6 @@ background-color: #404BBF;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
-
-.page-item-list {
-  background-color: #ffffff;
 }
 
 .team-card {
