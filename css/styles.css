@@ -37,7 +37,7 @@ ol {
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #434455;
+  background-color: #2e2f42;
 }
 
 .nav-link:hover,
@@ -119,17 +119,17 @@ ol {
 }
 
 .page-team {
-  font-weight: 700;
-  font-size: 36px;
+  font-weight: 500;
+  font-size: 20px;
   line-height: 40px;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
 }
 
-.page-team-foto {
+.page-team-photo {
   background-color: #fff;
 }
 
