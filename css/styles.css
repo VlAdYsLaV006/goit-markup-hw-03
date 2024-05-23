@@ -37,7 +37,7 @@ ol {
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  background-color: #434455;
 }
 
 .nav-link:hover,
@@ -64,7 +64,7 @@ ol {
 }
 
 .hero {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .hero-title {
@@ -115,7 +115,7 @@ ol {
 }
 
 .page-item {
-  background-color: #ffffff;
+  background-color: #F4F4FD;
 }
 
 .page-team {
@@ -127,6 +127,10 @@ ol {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+}
+
+.page-team-foto {
+  background-color: #fff;
 }
 
 .team-card {
