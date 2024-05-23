@@ -37,7 +37,7 @@ ol {
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #2e2f42;
+  background-color:#2e2f42;
 }
 
 .nav-link:hover,
@@ -115,7 +115,7 @@ ol {
 }
 
 .page-item {
-  background-color: #f4f4fd;
+background-color: #FFFFFF;
 }
 
 .page-team {
