@@ -24,7 +24,7 @@ ol {
 }
 
 .logo-part {
-  background-color: #2e2f42;
+color: #2e2f42;
 }
 
 .logo-part-footer {
@@ -37,7 +37,7 @@ ol {
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color:#2e2f42;
+  color:#2e2f42;
 }
 
 .nav-link:hover,
