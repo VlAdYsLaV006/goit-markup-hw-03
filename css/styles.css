@@ -211,4 +211,5 @@ background-color: #FFFFFF;
 
 .container-header {
   display: flex;
+  justify-content: center;
 }
