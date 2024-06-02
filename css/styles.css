@@ -73,6 +73,7 @@ h6 {
 .header-nav {
   display: flex;
 flex-grow: 1;
+justify-content: space-between;
 }
 
 .nav-link:hover,
