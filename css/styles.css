@@ -26,6 +26,7 @@ p, h1,h2,h3,h4,h5,h6 {
   padding-left: 15px;
   padding-right: 15px;
   margin: auto;
+  display: flex;
 }
 
 .logo {
@@ -207,9 +208,4 @@ background-color: #FFFFFF;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-
-.container-header {
-  display: flex;
-  justify-content: center;
 }
