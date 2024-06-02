@@ -47,7 +47,6 @@ h6 {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  margin-left: 156px;
 }
 
 .logo-part {
@@ -89,7 +88,6 @@ h6 {
 .address-contacts-list {
   display: flex;
   gap: 40px;
-  margin-right: 156px;
 }
 
 .address-link {
