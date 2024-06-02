@@ -28,11 +28,6 @@ p, h1,h2,h3,h4,h5,h6 {
   margin: auto;
 }
 
-.container-header {
-  display: flex;
-  justify-content: center;
-}
-
 .logo {
   font-family: Raleway, sans-serif;
   font-weight: 700;
@@ -81,6 +76,11 @@ color: #2e2f42;
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
+}
+
+.header-title {
+  display: flex;
+  justify-content: center;
 }
 
 .hero {
