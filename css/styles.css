@@ -64,6 +64,10 @@ color: #2e2f42;
   color: #404bbf;
 }
 
+.header-nav {
+  display: flex;
+}
+
 .address {
   font-style: normal;
 }
