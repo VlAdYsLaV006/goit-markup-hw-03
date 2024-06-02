@@ -85,6 +85,7 @@ h6 {
 
 .address-contacts-list {
   display: flex;
+  gap: 40px;
 }
 
 .address-link {
