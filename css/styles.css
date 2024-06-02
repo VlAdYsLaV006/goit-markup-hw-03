@@ -16,7 +16,13 @@ ol {
   padding-left: 0;
 }
 
-p, h1,h2,h3,h4,h5,h6 {
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -26,6 +32,10 @@ p, h1,h2,h3,h4,h5,h6 {
   padding-left: 15px;
   padding-right: 15px;
   margin: auto;
+}
+
+.header-container {
+  display: flex;
 }
 
 .logo {
@@ -39,7 +49,7 @@ p, h1,h2,h3,h4,h5,h6 {
 }
 
 .logo-part {
-color: #2e2f42;
+  color: #2e2f42;
 }
 
 .logo-part-footer {
@@ -56,7 +66,7 @@ color: #2e2f42;
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:#2e2f42;
+  color: #2e2f42;
 }
 
 .header-nav {
@@ -142,7 +152,7 @@ color: #2e2f42;
 }
 
 .page-item {
-background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .page-team {
@@ -157,7 +167,7 @@ background-color: #F4F4FD;
 }
 
 .page-team-photo {
-background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .team-images {
