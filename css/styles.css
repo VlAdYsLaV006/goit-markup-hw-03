@@ -59,6 +59,7 @@ h6 {
 
 .header-menu-list {
   display: flex;
+  gap: 40px;
 }
 
 .nav-link {
@@ -86,6 +87,7 @@ h6 {
 
 .address-contacts-list {
   display: flex;
+  gap: 40px;
 }
 
 .address-link {
