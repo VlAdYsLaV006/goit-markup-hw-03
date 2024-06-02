@@ -72,6 +72,7 @@ h6 {
 
 .header-nav {
   display: flex;
+  
 }
 
 .nav-link:hover,
@@ -86,6 +87,7 @@ h6 {
 .address-contacts-list {
   display: flex;
   gap: 40px;
+  flex-grow: 1;
 }
 
 .address-link {
