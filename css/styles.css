@@ -28,10 +28,6 @@ p, h1,h2,h3,h4,h5,h6 {
   margin: auto;
 }
 
-.header-container {
-  display: flex;
-}
-
 .logo {
   font-family: Raleway, sans-serif;
   font-weight: 700;
