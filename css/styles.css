@@ -46,6 +46,7 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-part {
@@ -58,7 +59,6 @@ h6 {
 
 .header-menu-list {
   display: flex;
-  gap: 40px;
 }
 
 .nav-link {
@@ -72,9 +72,7 @@ h6 {
 
 .header-nav {
   display: flex;
-flex-grow: 1;
-justify-content: space-between;
-margin-right: 332px;
+  margin-right: auto;
 }
 
 .nav-link:hover,
@@ -88,7 +86,6 @@ margin-right: 332px;
 
 .address-contacts-list {
   display: flex;
-  gap: 40px;
 }
 
 .address-link {
