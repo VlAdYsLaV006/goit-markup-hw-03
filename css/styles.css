@@ -58,6 +58,7 @@ h6 {
 
 .header-menu-list {
   display: flex;
+  gap: 40px;
 }
 
 .nav-link {
