@@ -74,6 +74,7 @@ h6 {
   display: flex;
 flex-grow: 1;
 justify-content: space-between;
+margin-right: 332px;
 }
 
 .nav-link:hover,
