@@ -59,13 +59,13 @@ color: #2e2f42;
   color:#2e2f42;
 }
 
+.header-nav {
+  display: flex;
+}
+
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
-}
-
-.header-nav {
-  display: flex;
 }
 
 .address {
