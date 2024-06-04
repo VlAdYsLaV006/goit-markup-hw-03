@@ -127,6 +127,11 @@ h6 {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  border-radius: 4px;
+  border: none;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
   cursor: pointer;
   display: flex;
   align-items: flex-start;
