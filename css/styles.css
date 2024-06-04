@@ -28,7 +28,11 @@ h6 {
 }
 
 .container {
-  margin: auto;
+  max-width:1440px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 141px;
+  margin-right: 141px;
 }
 
 .header-container {
