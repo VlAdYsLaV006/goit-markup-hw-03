@@ -28,12 +28,13 @@ h6 {
 }
 
 .container {
-  max-width: 1128 px;
-  padding-left:  0 15px;
-  margin: 0 auto;
+  max-width: 1440px;
 }
 
 .header-container {
+  width: 1128 px;
+  padding-left: 0 15px;
+  margin: 0 auto;
   display: flex;
 }
 
@@ -116,7 +117,7 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  padding-top: 188px;
+  padding: 188 472 292px;
   max-width: 496px;
 }
 
