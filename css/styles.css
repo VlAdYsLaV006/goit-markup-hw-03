@@ -32,11 +32,10 @@ h6 {
 }
 
 .header-container {
-    width: 1158px;
-      padding-left: 15px;
-      padding-right: 15px;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
   display: flex;
-
 }
 
 .logo {
@@ -130,6 +129,10 @@ h6 {
   background-color: #4d5ae5;
   cursor: pointer;
   display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 10px;
 }
 
 .btn:hover,
