@@ -134,7 +134,7 @@ h6 {
   padding: 16px 32px;
   width: 169px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: row;
   gap: 10px;
 }
