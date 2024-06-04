@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background: #fff;
+  max-width: 1440px;
 }
 
 a {
