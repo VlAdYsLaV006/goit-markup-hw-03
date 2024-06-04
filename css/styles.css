@@ -28,12 +28,13 @@ h6 {
 }
 
 .container {
-  width: 1128 px;
+  max-width: 1128 px;
   padding-left:  0 15px;
   margin: 0 auto;
 }
 
 .header-container {
+
   display: flex;
 }
 
@@ -116,6 +117,8 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  padding: 188 472 292 472px;
+
 }
 
 .btn {
