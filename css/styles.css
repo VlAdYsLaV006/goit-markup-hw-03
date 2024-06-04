@@ -28,6 +28,9 @@ h6 {
 }
 
 .container {
+  width: 1128 px;
+  padding-left:  0 15px;
+  margin: 0 auto;
 }
 
 .header-container {
@@ -35,7 +38,7 @@ h6 {
   padding-left: 15px;
   padding-right: 15px;
   display: flex;
-  margin:auto;
+  margin: auto;
 }
 
 .logo {
