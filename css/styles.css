@@ -36,6 +36,7 @@ h6 {
 
 .header-container {
   display: flex;
+
 }
 
 .logo {
@@ -115,7 +116,7 @@ h6 {
   line-height: 60px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  margin: 188px 472px 292px 472px;
+  padding: 188px 472px 292px 472px;
   max-width: 496px;
   text-align: center;
   color: #fff;
