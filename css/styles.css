@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background: #fff;
-  max-width: 1440px;
 }
 
 a {
@@ -47,7 +46,6 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right: 76px;
 }
 
 .logo-part {
@@ -118,8 +116,7 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  padding: 188 472 292 472px;
-
+  max-width: 496px;
 }
 
 .btn {
