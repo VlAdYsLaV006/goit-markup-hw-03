@@ -206,6 +206,10 @@ h6 {
   margin-bottom: 72px;
 }
 
+.team-list {
+  display: flex;
+}
+
 .page-team-photo {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
