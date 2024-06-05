@@ -104,7 +104,6 @@ h6 {
 }
 
 .hero {
-  height: 600px;
   background-color: #2e2f42;
 }
 
@@ -116,6 +115,8 @@ h6 {
   text-align: center;
   color: #fff;
   max-width: 496px;
+  padding-top: 188px;
+  padding-bottom: 48px;
   margin: auto;
   display: flex;
 }
