@@ -239,6 +239,8 @@ gap: 24px;
 .portfolio {
   text-transform: capitalize;
   background-color: #fff;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio-title {
