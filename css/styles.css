@@ -103,6 +103,10 @@ h6 {
   color: #404bbf;
 }
 
+.main-title {
+  width: 1440px;
+}
+
 .hero {
   background-color: #2e2f42;
 }
