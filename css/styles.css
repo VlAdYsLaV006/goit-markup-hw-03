@@ -152,6 +152,11 @@ h6 {
   padding-bottom: 188px;
 }
 
+.container-feature {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
 .feature {
   background-color: #fff;
 }
