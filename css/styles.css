@@ -46,8 +46,6 @@ h6 {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  padding-top: 25.5px;
-  padding-bottom: 25.5px;
 }
 
 .logo-part {
@@ -75,6 +73,8 @@ h6 {
 .header-nav {
   display: flex;
   margin-right: auto;
+  padding-top: 25.5px;
+  padding-bottom: 25.5px;
 }
 
 .nav-link:hover,
@@ -210,7 +210,7 @@ h6 {
 
 .team-list {
   display: flex;
-gap: 24px;
+  gap: 24px;
 }
 
 .page-team-photo {
@@ -292,4 +292,15 @@ gap: 24px;
   max-width: 264px;
   padding-top: 16px;
   padding-bottom: 100px;
+}
+
+.logo-footer {
+    font-family: Raleway, sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+      padding-top: 100px;
 }
