@@ -16,24 +16,14 @@ ol {
   padding-left: 0;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 .container {
-  width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
+  width: 1440px;
 }
 
 .header-container {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
   display: flex;
 }
 
@@ -116,7 +106,6 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  padding: 188 472 292px;
   max-width: 496px;
   display: flex;
 }
