@@ -46,6 +46,8 @@ h6 {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  padding-top: 25.5px;
+  padding-bottom: 25.5px;
 }
 
 .logo-part {
@@ -288,6 +290,6 @@ gap: 24px;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 100px;
+  padding-top: 16px;
   padding-bottom: 100px;
 }
