@@ -271,6 +271,9 @@ img {
   gap: 48px 24px;
 }
 
+.portfolio-image {
+}
+
 .project-content {
   font-weight: 500;
   font-size: 20px;
@@ -286,6 +289,12 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.portfolio-card {
+  border: 1px solid #e7e9fc;
+    width: 360px;
+    height: 420px;
 }
 
 .footer-title {
