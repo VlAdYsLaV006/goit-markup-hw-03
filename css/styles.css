@@ -258,13 +258,12 @@ h6 {
   text-align: center;
   color: #2e2f42;
   margin-bottom: 72px;
-  gap: 48px 24px;
 }
 
 .portfolio-item {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 48px 24px;
 }
 
 .portfolio-img {
