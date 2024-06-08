@@ -60,6 +60,8 @@ h6 {
 
 .logo-footer {
   color: #4d5ae5;
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 .header-menu-list {
@@ -306,10 +308,8 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 16px;
-  padding-bottom: 100px;
 }
 .footer-container {
-  padding-top: 100px;
+  padding: 100px 0;
   background-color: #2e2f42;
 }
