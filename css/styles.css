@@ -222,6 +222,7 @@ img {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
   text-align: center;
+  width: calc((100% - 72px) / 4);
 }
 
 .team-images {
