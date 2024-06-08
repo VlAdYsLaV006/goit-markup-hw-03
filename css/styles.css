@@ -307,5 +307,8 @@ img {
 }
 .footer-container {
   padding-top: 100px;
+}
+
+.footer-title {
   background-color: #2e2f42;
 }
