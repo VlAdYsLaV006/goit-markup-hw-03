@@ -118,6 +118,11 @@ border-bottom: 1px solid #e7e9fc;
   color: #404bbf;
 }
 
+.hero-main-title {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
 .hero {
   background-color: #2e2f42;
   padding-top: 188px;
