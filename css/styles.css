@@ -36,7 +36,7 @@ h6 {
 .header-container {
   padding: 0 15px 0 15px;
   display: flex;
-  border-bottom: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc
 }
 
 .logo {
@@ -68,7 +68,6 @@ h6 {
 }
 
 .nav-link {
-  padding: 24px 0;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -80,7 +79,6 @@ h6 {
 .header-nav {
   display: flex;
   margin-right: auto;
-  align-items: center;
 }
 
 .nav-link:hover,
@@ -117,7 +115,6 @@ h6 {
 
 .hero {
   background-color: #2e2f42;
-  padding: 188px 0;
 }
 
 .hero-title {
@@ -141,6 +138,9 @@ h6 {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: white;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  border: none;
   padding: 16px 32px;
   margin: auto;
   display: flex;
@@ -155,14 +155,7 @@ h6 {
 }
 
 .button {
-  display: block;
-  min-width: 169px;
-  height: 56px;
   padding-bottom: 188px;
-  border: none;
-  background-color: #4d5ae5;
-  border-radius: 4px;
-  cursor: pointer;
 }
 
 img {
@@ -172,6 +165,9 @@ img {
 .container-feature {
   margin-top: 120px;
   margin-bottom: 120px;
+}
+
+.feature {
   background-color: #fff;
 }
 
