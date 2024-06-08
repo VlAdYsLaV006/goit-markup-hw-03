@@ -117,6 +117,7 @@ h6 {
 
 .hero {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .hero-title {
@@ -167,10 +168,7 @@ img {
 .container-feature {
   margin-top: 120px;
   margin-bottom: 120px;
-}
-
-.feature {
-  background-color: #fff;
+    background-color: #fff;
 }
 
 .feature-list {
