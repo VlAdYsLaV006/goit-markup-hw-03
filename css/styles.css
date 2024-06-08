@@ -29,11 +29,11 @@ h6 {
 
 .container {
   width: 1158px;
+  padding: 0 15px;
   margin: 0 auto;
 }
 
 .header-title {
-  padding: 0 15px;
   border-bottom: 1px solid #e7e9fc;
 }
 
