@@ -81,6 +81,7 @@ h6 {
 .header-nav {
   display: flex;
   margin-right: auto;
+  align-items: center;
 }
 
 .nav-link:hover,
@@ -222,6 +223,7 @@ img {
   margin-bottom: 72px;
   padding-top: 120px;
   padding-bottom: 120px;
+  border-bottom: 1px solid #e7e9fc
 }
 
 .team-list {
