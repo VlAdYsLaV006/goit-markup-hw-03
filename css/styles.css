@@ -218,6 +218,11 @@ img {
   gap: 24px;
 }
 
+.team-title {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
 .page-team-photo {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
