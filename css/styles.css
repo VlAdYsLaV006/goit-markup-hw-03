@@ -79,6 +79,7 @@ h6 {
 .header-nav {
   display: flex;
   margin-right: auto;
+  align-items: center;
 }
 
 .nav-link:hover,
